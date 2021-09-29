@@ -16,4 +16,3 @@
 # 1. someone who want to become amarchure and professonal runner.
 # 2. someone who develop like this.
 #
-# Thanks.
